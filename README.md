@@ -13,8 +13,8 @@ This project implements a deep learning model for classifying human emotions fro
 
 ## 📊 Results
 
-- Validation Accuracy - 76.22%**
-- Training Accuracy - 89.7%**
+- Validation Accuracy - 76.22%
+- Training Accuracy - 89.7%
 - Per-class accuracy and confusion matrix visualized for insights
 
 ## 📁 Dataset

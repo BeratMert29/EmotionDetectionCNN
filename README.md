@@ -13,8 +13,8 @@ This project implements a deep learning model for classifying human emotions fro
 
 ## 📊 Results
 
-- Validation Accuracy improved from **66.13% to 76.22%**
-- Training Accuracy increased from **73.62% to 89.7%**
+- Validation Accuracy - 76.22%**
+- Training Accuracy - 89.7%**
 - Per-class accuracy and confusion matrix visualized for insights
 
 ## 📁 Dataset
@@ -34,11 +34,3 @@ We used the [FER2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013),
 - Enhance regularization to reduce overfitting
 - Explore data resampling techniques like SMOTE
 - Incorporate additional emotion classes with balanced data
-
-## 📚 References
-
-- FER2013 Dataset (Kaggle)
-- ResNet Architecture (He et al.)
-- Focal Loss (Lin et al.)
-- AdamW Optimizer (Loshchilov & Hutter)
-- OneCycleLR Scheduler (Smith)
